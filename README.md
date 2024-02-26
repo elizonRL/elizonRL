@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elizon Rodriguez Liriano</h1>
-<h3 align="center">I´m software Eng</h3>
+<h3 align="center">I am a software engineer</h3>
 
 - 🌱 I’m currently learning **Astro, tailwind**
 
