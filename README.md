@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/118481749?s=400&u=330eca364b582612d9582b833c22cce58fb9f6e8&v=4">
 <h1 align="center">Hi 👋, I'm Elizon Rodriguez Liriano</h1>
 <h3 align="center">I am a software engineer</h3>
 
