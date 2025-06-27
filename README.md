@@ -6,13 +6,21 @@
 
 - 👯 I’m looking to collaborate on [uasd Egresados](https://github.com/ericmguzmanc/egresados-uasd)
 
-- 💬 Ask me about **vue.js, java, javaScript, python**
+- 💬 Ask me about **React, java, javaScript, python, NodeJs**
 
 - 📫 How to reach me **elizorodriguez16@gmail.com**
 
-  <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+  ```JavaScript
+  const aboutMe = ()=>{
+   let myNameIs = 'Elizon Rodriguez'
+   let iAm = 'Software Developer'
+   
+  }
+  cons techStack = ()=>{
+	const languajes = 'javaScript, C++, java, Python'
+  	const frameworks = 'React, Angular, Vue, Express'
+  }
+  ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
